@@ -378,8 +378,8 @@ async function starts() {
                         const q = args.join(' ')
 
 			mess = {
-				wait: '❰ ⏳ ❱ *Sedang di Prosess* ❰ ⏳ ❱',
-				success: '❰ ☑️ ❱ *Berhasil* ❰ ☑️ ❱',
+				wait: '❰ ⏳ ❱ *Waiting..* ❰ ⏳ ❱',
+          			success: '❰ ☑️ ❱ *Done!* ❰ ☑️ ❱',
                                 levelon: '❰❗❱ *enable leveling*',
 				leveloff: '❰❗❱ *disable leveling*',
 				levelnoton: '❰ ❌ ❱ *leveling not aktif*',
