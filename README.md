@@ -1,11 +1,4 @@
-### Moshi Moshi~ I'm ANKER
-
-<details>
- <summary>🍙 Help me!</summary>
- 
- [Saweria](https://saweria.co/darkbot2412)
-
- [Gopay](https://wa.me/6281368646011)
+### Yumang 
  
 </details>
 </div>
